@@ -31,7 +31,7 @@ body {
     flex-direction: row;
     margin-bottom: 20px;
     gap: 5rem; /* Add gap between the button and the text */
-    padding: 0 10px; /* Add padding to the sides for responsiveness */
+    padding: 0 10px; /* Add padding to the sides for responsiveness .*/
     width: 100%;
     height: auto;
 }
